@@ -8,6 +8,7 @@ public class TodoItem {
     private String title;
     private String description;
 
+
     public TodoItem(String id, String title, String description) {
         this.id = id;
         this.title = title;
